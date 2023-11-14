@@ -1,6 +1,6 @@
 1.Nama   : Ambar Hidayati
  - NIM    : H985274927268
-  -JK     : Perempuan
+  - JK     : Perempuan
  - Agama  : Islam
   - TTL    : Kendal, 8 Januari 2006
   - Alamat : jln.Dawung
