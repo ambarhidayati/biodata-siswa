@@ -6,8 +6,8 @@
    - Alamat : jln.Dawung
 
  2. - Nama   : Fajar happy royani
-- NIM      : N93742846472764888
-- JK       : Perempuan
-- Agama    : Islam
-- TTL      : Kendal, 18 Desember 2006
-- Alamat   : Gentan Kidul
+   - NIM      : N93742846472764888
+   - JK       : Perempuan
+   - Agama    : Islam
+   - TTL      : Kendal, 18 Desember 2006
+   - Alamat   : Gentan Kidul
